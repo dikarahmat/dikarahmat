@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dika and I'm a Front End Web Developer</h2>
+<h2 align="left">Hello World! I'm Dika Rahmat Fadillah 👋</h2>
 
 ###
 
